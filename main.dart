@@ -4,6 +4,7 @@ void main(List<String> args) {
 
   Student student = Student("Manik", "Bsc", 07);
   student.study();
+  student.Name();
 }
 
 class Person {
